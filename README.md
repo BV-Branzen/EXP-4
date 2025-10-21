@@ -55,7 +55,7 @@ TABULAR COLUMN
 
 Rectifier without filter
 
-<img width="295" height="248" alt="image" src="https://github.com/user-attachments/assets/4f89707d-1231-4c05-a3ec-84ccbb1629c5" />
+<img width="236" height="127" alt="image" src="https://github.com/user-attachments/assets/dce46569-191e-4ac7-826f-6c7250fb960a" />
 
 
 
